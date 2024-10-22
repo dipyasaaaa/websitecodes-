@@ -1,1 +1,1 @@
-All hackerrank codes that i did till now based on dsa concepts 
+All hackerrank codes that I have done till now, based on DSA concepts.
